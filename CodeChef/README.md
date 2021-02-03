@@ -1,3 +1,3 @@
-| # | Title | Solution | Tags | Submitted |
-|---| ----- | -------- | ---- | --------- |
-1948 | [D - Pairs](https://codeforces.com/contest/1463/problem/D) | [GNU C++17 (64)](./codeforces/1463/D.cpp) | `binary search` `constructive algorithms` `greedy` `*1900` | Dec/17/2020 21:49 | 
+| # | Title | Tags | Source |
+|---| ----- | ---- | --------- |
+1 | [OR-thodox Distinction ](https://www.codechef.com/problems/ORTHODOX)| bitwise-operation, cook120, easy, rajarshi_basu, sjshohag | [July Cook-Off 2020](https://www.codechef.com/COOK120A) | 
