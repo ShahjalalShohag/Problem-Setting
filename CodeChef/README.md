@@ -1,4 +1,4 @@
-| # | Title | Tags | Source | Created |
+| # | Title | Tags | Source | Created on |
 |---| ----- | ---- | ------ | ------- |
 19 | [Panic! at the Disco](https://www.codechef.com/NOV20A/problems/PANIC)| `berlekamp-massey`, `cayley-hamilton`, `hard`, `math`, `matrix-exponentiation`, `nov20`, `number-theory`, `randomized`, `recurrence` | [November Challenge 2020 ](https://www.codechef.com/NOV20A) | Nov/6/2020
 18 | [Ppeerrffeecctt Ssqquuaarreess](https://www.codechef.com/PRACTICE/problems/PERFSQRS)| `cook123`, `medium-hard`, `mobius-function`, `number-theoretic-transfmtn`, `polynomial`, `psychik`, `sjshohag` | [October Cook-Off 2020](https://www.codechef.com/COOK123) | Oct/18/2020
