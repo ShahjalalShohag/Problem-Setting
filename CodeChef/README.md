@@ -1,5 +1,6 @@
 | # | Title | Tags | Source | Created on |
 |---| ----- | ---- | ------ | ------- |
+20 | [Product of Minimums](https://www.codechef.com/problems/MINPROD)| `math` | Bending Spoons 2020 | Apr/6/2020
 19 | [Panic! at the Disco](https://www.codechef.com/NOV20A/problems/PANIC)| `berlekamp-massey`, `cayley-hamilton`, `hard`, `math`, `matrix-exponentiation`, `nov20`, `number-theory`, `randomized`, `recurrence` | [November Challenge 2020 ](https://www.codechef.com/NOV20A) | Nov/6/2020
 18 | [Ppeerrffeecctt Ssqquuaarreess](https://www.codechef.com/PRACTICE/problems/PERFSQRS)| `cook123`, `medium-hard`, `mobius-function`, `number-theoretic-transfmtn`, `polynomial`, `psychik`, `sjshohag` | [October Cook-Off 2020](https://www.codechef.com/COOK123) | Oct/18/2020
 17 | [Isomorphic Morphism](https://www.codechef.com/PRACTICE/problems/MORPH21)| `ad-hoc`, `cook123`, `medium`, `psychik`, `sjshohag` | [October Cook-Off 2020](https://www.codechef.com/COOK123) | Oct/18/2020
