@@ -1,7 +1,7 @@
 | # | Title | Tags | Source | Created on |
 |---| ----- | ---- | ------ | ------- |
-13 | [October 18, 2017](https://codeforces.com/contest/1603/problem/F) | `combinatorics`, `dp`, `math`, `3500`| [Codeforces Round #752 (Div. 1)](https://codeforces.com/contest/1603) | Oct/30/2021
-12 | [A Perfect Problem](https://codeforces.com/contest/1603/problem/E) | `combinatorics`, `dp`, `math`, `3400`| [Codeforces Round #752 (Div. 1)](https://codeforces.com/contest/1603) | Oct/30/2021
+13 | [October 18, 2017](https://codeforces.com/contest/1603/problem/F) | `combinatorics`, `dp`, `math`, `2700`| [Codeforces Round #752 (Div. 1)](https://codeforces.com/contest/1603) | Oct/30/2021
+12 | [A Perfect Problem](https://codeforces.com/contest/1603/problem/E) | `combinatorics`, `dp`, `math`, `3200`| [Codeforces Round #752 (Div. 1)](https://codeforces.com/contest/1603) | Oct/30/2021
 11 | [Artistic Partition](https://codeforces.com/contest/1603/problem/D) | `divide and conquer`, `dp`, `implementation`, `number theory`, `3000`| [Codeforces Round #752 (Div. 1)](https://codeforces.com/contest/1603) | Oct/30/2021
 10 | [Extreme Extension](https://codeforces.com/contest/1603/problem/C) | `dp`, `greedy`, `math`, `2300`| [Codeforces Round #752 (Div. 1)](https://codeforces.com/contest/1603) | Oct/30/2021
 9 | [Moderate Modular Mode](https://codeforces.com/contest/1603/problem/B) | `constructive algorithms`, `math`, `number theory` `1600`| [Codeforces Round #752 (Div. 1)](https://codeforces.com/contest/1603) | Oct/30/2021
