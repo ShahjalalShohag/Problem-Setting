@@ -1,6 +1,6 @@
 | # | Title | Tags | Source | Created on |
 |---| ----- | ---- | ------ | ------- |
-| 16 | XOR-Gun](https://toph.co/p/xor-gun)| `Data Structures` | [National Girls' Programming Contest 2021](https://toph.co/c/ngpc-2021) | Nov/26/2021
+| 16 | [XOR-Gun](https://toph.co/p/xor-gun)| `Data Structures` | [National Girls' Programming Contest 2021](https://toph.co/c/ngpc-2021) | Nov/26/2021
 | 15 | [F](https://toph.co/p/f)| `Data Structures` | [National High School Programming Contest 2021](https://toph.co/c/national-high-school-2021-senior) | Jun/11/2021
 | 14 | [On the Sea](https://toph.co/p/median-of-the-submasks)| `Bitwise` | [Virtual Techfest 2020 Regional Programming Contest](https://toph.co/c/virtual-techfest-2020-regional) | Dec/04/2020
 | 13 | [Giveaway](https://toph.co/p/giveaway)| `Strings` | [Virtual Techfest 2020 Regional Programming Contest](https://toph.co/c/virtual-techfest-2020-regional) | Dec/04/2020
